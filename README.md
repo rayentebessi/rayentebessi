@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @rayentebessi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rayentebessi/rayentebessi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+//    ___                      _____    _               _ 
+//   | _ \__ _ _  _ ___ _ _   |_   _|__| |__  ___ _____(_)
+//   |   / _` | || / -_) ' \    | |/ -_) '_ \/ -_|_-<_-< |
+//   |_|_\__,_|\_, \___|_||_|   |_|\___|_.__/\___/__/__/_|
+//             |__/               
